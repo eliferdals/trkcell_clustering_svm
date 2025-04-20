@@ -75,6 +75,3 @@ API servisi http://localhost:8000 adresinde çalışır.
 4. Web arayüzü geliştirme
 5. Model performansını artırma
 
-## Lisans
-
-MIT 
